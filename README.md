@@ -1,5 +1,5 @@
-# Calculadora C 🔴
-Este projeto é uma calculadora, pede um número, a operação e outro número e mostra o resultado. No código foi utilizado a linguagem C. 
+# Maioridade 🔴
+Este projeto é um verificador de maioridade, pede sua idade, e faz uma comparação se a idade é maior ou igual a 18 e responde se é menor ou maior de idade. 
 
 [<img height="400" src="img/Calculadora.gif">](https://github.com/Arqgilmar/Calculadora/blob/main/img/Calculadora.gif) 
 
@@ -16,9 +16,9 @@ Este projeto é uma calculadora, pede um número, a operação e outro número e
 
 ## 💻 Reflexão
 
-- Estudo da linguagem C, um código bem simples que abrange variáveis e estrutura condicional.
+- Estudo da linguagem C, um código bem simples que abrange variáveis, estrutura condicional e operadores relacionais.
 
-- Skills da linguagem: estrutura condicional(If e else), printf, scanf e variável int e float.
+- Skills da linguagem: estrutura condicional(If e else), printf, scanf, operadores relacionais e variável int e float.
 
 <br>
 <br>
