@@ -1,7 +1,7 @@
 # Maioridade 🔴
 Este projeto é um verificador de maioridade, pede sua idade, e faz uma comparação se a idade é maior ou igual a 18 e responde se é menor ou maior de idade. 
 
-[<img height="400" src="img/Calculadora.gif">](https://github.com/Arqgilmar/Calculadora/blob/main/img/Calculadora.gif) 
+[<img height="400" src="img/Calculadora.gif">](https://github.com/Arqgilmar/Calculadora/blob/main/img/Maioridade.gif) 
 
 
 ## ⚡ Linguagem usada
